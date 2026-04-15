@@ -1,0 +1,74 @@
+body {
+    font-family: Arial;
+    background: #f5f5f5;
+}
+
+/* CONTAINER */
+.container {
+    width: 800px;
+    margin: auto;
+}
+
+/* HEADER */
+.header {
+    background: linear-gradient(to right, purple, blue);
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 24px;
+}
+
+/* SIDEBAR */
+.sidebar {
+    background: #eee;
+    width: 200px;
+    vertical-align: top;
+    padding: 15px;
+}
+
+/* CONTENT */
+.content {
+    padding: 15px;
+    background: white;
+}
+
+/* FOOTER */
+.footer {
+    background: #444;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+/* LINK */
+a {
+    display: block;
+    margin: 10px 0;
+    text-decoration: none;
+    color: purple;
+}
+
+/* TABLE BIAR RAPI */
+table {
+    border-collapse: collapse;
+}
+
+td {
+    padding: 8px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+/* GAMBAR BIAR FIT */
+.content img {
+    width: 100%;
+    max-width: 200px;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+
+/* JUDUL */
+h2 {
+    margin-top: 0;
+}
